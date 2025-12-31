@@ -25,6 +25,7 @@ PyMEL supports four major versions of Maya:
 - 2023
 - 2024
 - 2025
+- 2026 (upto 2026.3)
 
 See the full [changelog](https://github.com/LumaPictures/pymel/blob/master/CHANGELOG.rst).
 
